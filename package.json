@@ -1,12 +1,12 @@
 {
   "name": "imagemin-mozjpeg",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "license": "MIT",
   "author": "萌芽系列網站 ‧ Mnya Series Website ‧ Mnya.tw",
   "dependencies": {
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "imagemin": "^6.1.0",
-    "imagemin-mozjpeg": "^8.0.0"
+    "imagemin-mozjpeg": "^9.0.0"
   }
 }
