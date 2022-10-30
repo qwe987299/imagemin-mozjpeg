@@ -31,6 +31,7 @@ By MNYA.TW
 ├─📝 package.json
 ├─⚙️ imagemin-mozjpeg.bat // 單純執行壓縮
 ├─⚙️ imagemin-mozjpeg-run.bat // 執行壓縮後移除 src 內檔案並開啟 build
+├─⚙️ imagemin-mozjpeg-install.bat // 首次使用請執行以安裝依賴項
 ．．├─📁 src
 ．．．．├─📁 img
 ．．．．．．└─🖼 輸入圖檔[".jpg", ".jpeg", ".JPG", ".JPEG"]
