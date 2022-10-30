@@ -1,4 +1,5 @@
 @echo off
+type logo.txt
 echo  START!
 START /B /WAIT cmd /c "imagemin-mozjpeg.bat"
 echo  DEL "src"
