@@ -24,8 +24,9 @@ By MNYA.TW
 
 【教學】[Node.js：Gulp 運行 imagemin-mozjpeg，mozjpeg 批次圖片壓縮](https://mnya.tw/cc/word/1347.html)
 
-- 重點檔案架構
+## 重點檔案架構
 
+```
 ├─📝 gulpfile.js
 ├─📝 package.json
 ├─⚙️ imagemin-mozjpeg.bat // 單純執行壓縮
@@ -36,3 +37,4 @@ By MNYA.TW
 ．．├─📁 build
 ．．．．├─📁 img
 ．．．．．．└─🖼 輸出圖檔[".jpg", ".jpeg", ".JPG", ".JPEG"]
+```
